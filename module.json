@@ -1,0 +1,15 @@
+{
+  "id": "motos-art-cabinet",
+  "title": "Moto's Art Cabinet",
+  "description": "An optional collection of AI-generated fantasy artwork for Foundry VTT. The initial release contains icons.",
+  "authors": [
+    {
+      "name": "Moto"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13.351"
+  },
+  "readme": "README.md"
+}
